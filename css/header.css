@@ -2,12 +2,6 @@
   border-bottom: 1px solid #e7e9fc;
 }
 
-.header-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
 .header-container,
 .header-nav,
 .nav-list,
@@ -38,6 +32,7 @@
 
 .contacts {
   font-style: normal;
+  margin-left: 332px;
 }
 
 .contacts-link {
