@@ -1,12 +1,11 @@
 .section-hero {
   background-color: #2e2f42;
-}
-
-.hero-container {
   padding: 188px 0;
 }
 
 .hero-title {
+  width: 496px;
+  margin-bottom: 48px;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;

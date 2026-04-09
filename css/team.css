@@ -19,10 +19,6 @@
   text-align: center;
 }
 
-.team-subtitle {
-  margin-top: 32px;
-}
-
-.team-text {
-  margin-bottom: 32px;
+.team-item .container {
+  padding: 32px 16px;
 }

@@ -1,9 +1,14 @@
 .page-header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.header-container {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
+.header-container,
 .header-nav,
 .nav-list,
 .contacts-list {
@@ -13,6 +18,7 @@
 
 .header-logo {
   padding: 24px 0;
+  margin-right: 76px;
 }
 
 .nav-list,
