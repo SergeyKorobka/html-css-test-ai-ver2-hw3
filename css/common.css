@@ -63,7 +63,7 @@ img {
   padding: 0 15px;
 }
 
-.sr-only {
+.visually-hidden {
   position: absolute;
   white-space: nowrap;
   width: 1px;
